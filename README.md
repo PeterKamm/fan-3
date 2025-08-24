@@ -1,4 +1,5 @@
-simple, affordable fan controller DRAFT V1
+simple, affordable fan controller
+- open hardware, DRAFT V1 
 - MC STM32C011F4P
 - 4-pin-PC-fan plug
 - integrated temperatur-humidity-sensor
